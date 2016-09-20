@@ -1,0 +1,2 @@
+# SCO
+New Game Client
